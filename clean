@@ -1,0 +1,7 @@
+#!/bin/bash
+# Clean up summon-arm-toolchain working directory
+rm -r ./build
+rm -r ./sources
+rm -r ./stamps
+rm -r ./gcc-*
+rm -r ./newlib-*
